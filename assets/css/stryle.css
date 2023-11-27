@@ -58,7 +58,7 @@ body{
     display: none;
 }
 .fondo{
-    background: url(assets/img/img2.jpg) no-repeat;
+    background: url(../img/img2.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     border-radius: 20px;
